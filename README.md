@@ -1,5 +1,5 @@
 ### Spring Data JPA Projections with content negotiation
-This is a demo application which showcases how content negotiation and Spring Data JPA Projections can be combined. A write up of this code is available on https://www.bluemagma.be/nieuws/xxx
+This is a demo application which showcases how content negotiation and Spring Data JPA Projections can be combined.
 
 ### Running the application
 `mvn spring-boot:run`
